@@ -53,3 +53,11 @@
     gap: 14px;
   }
 }
+@media screen and (max-width: 640px) {
+  .link {
+    display: none;
+  }
+  .links {
+    justify-content: end;
+  }
+}
