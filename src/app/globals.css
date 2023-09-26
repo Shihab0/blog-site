@@ -73,6 +73,8 @@ a {
 }
 @media screen and (max-width: 640px) {
   .wrapper {
-    max-width: 475px;
+    max-width: 480px;
+    margin: auto;
+    background-color: yellow;
   }
 }

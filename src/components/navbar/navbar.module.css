@@ -58,6 +58,7 @@
     display: none;
   }
   .links {
+    background-color: red;
     justify-content: end;
   }
 }
