@@ -58,6 +58,6 @@
     display: none;
   }
   .links {
-    justify-content: end;
+    justify-content: flex-end;
   }
 }
