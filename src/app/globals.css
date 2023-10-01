@@ -25,12 +25,14 @@ a {
   --textColor: #ddd;
   --softBg: #1f273a;
   --softTextColor: #a6a6a6;
+  --buttonColor: #ddd;
 }
 .light {
   --bg: white;
   --textColor: black;
   --softBg: #f0f0f0;
   --softTextColor: #626262;
+  --buttonColor: #edd;
 }
 
 .container {
