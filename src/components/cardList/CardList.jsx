@@ -8,9 +8,11 @@ const CardList = () => {
     <div className={styles.container}>
       <h1 className={styles.title}>Recent Post</h1>
       <div className={styles.posts}>
-        <Card />
-        <Card />
-        <Card />
+        <div className={styles.post}>
+          <Card />
+          <Card />
+          <Card />
+        </div>
       </div>
       <Pagination />
     </div>
